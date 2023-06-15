@@ -1,4 +1,3 @@
 # Summary-Result
-Project Frontend Mentor
 
-Project สร้างไว้เพื่อเก็บผลงานการฝึก!
+Project นี้เป็นชาเลนจ์ใน Web Frontend Mentor ซึ่งทำขึ้นมาเพื่อทดสอบทักษะของตัวเองเท่านั้น
